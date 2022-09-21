@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+Topsis_Manik_101903077.egg-info/PKG-INFO
+Topsis_Manik_101903077.egg-info/SOURCES.txt
+Topsis_Manik_101903077.egg-info/dependency_links.txt
+Topsis_Manik_101903077.egg-info/top_level.txt
+topsis_Manik_101903077/TOPSIS.py
+topsis_Manik_101903077/__init__.py
